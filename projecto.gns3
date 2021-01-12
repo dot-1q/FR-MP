@@ -39,7 +39,7 @@
                 "drawing_id": "d8c6a3d6-6423-4141-8879-ebb041355800",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"408\" height=\"110\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">ROTAS NO SWITCH C1 E C2 EST\u00c3O FEITAS\nF1 E F2 EST\u00c3O J\u00c1 EM MODO TRUNK ONDE NECESS\u00c1RIO\n\nFALTA ATIVAR OSPF ROUTING\nE CONFIGURAR O ROUTER A, ROUTER1 E O ISP\n</text></svg>",
+                "svg": "<svg width=\"408\" height=\"110\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">ROTAS NO SWITCH C1 E C2 EST\u00c3O FEITAS\nF1 E F2 EST\u00c3O J\u00c1 EM MODO TRUNK ONDE NECESS\u00c1RIO\n\nFALTA ATIVAR OSPF ROUTING\nE CONFIGURAR O ROUTER1 E O ISP\n</text></svg>",
                 "x": 374,
                 "y": 159,
                 "z": 2
